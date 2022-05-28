@@ -2,7 +2,7 @@
 <!--- 👀 I’m interested in ... --->
 - 🌱 I’m currently learning Rust and Angular
 <!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 Reach me at milan7331@pm.me
+- 📫 You can reach me at milan7331@pm.me
 
 
 <!---
