@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milan
 <!--- 👀 I’m interested in ... --->
-- 🌱 I’m currently learning Rust and Angular
+- 🌱 I’m currently learning ~~Rust and Angular~~
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me at milan7331@pm.me
 
